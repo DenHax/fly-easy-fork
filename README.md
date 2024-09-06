@@ -1,18 +1,6 @@
 # FlyEasy
 ----
 
-```
-┬╔╦╗┌─┐┌─┐┌┬┐
-│ ║ ├┤ ├─┤│││
-o ╩ └─┘┴ ┴┴ ┴
-```
-
-```
-╔═╗┬ ┬ ┬╔═╗┌─┐┌─┐┬ ┬
-╠╣ │ └┬┘║╣ ├─┤└─┐└┬┘
-╚  ┴─┘┴ ╚═╝┴ ┴└─┘ ┴
-```
-
 ## Navigation
 ----
 <!--toc:start-->
@@ -22,6 +10,7 @@ o ╩ └─┘┴ ┴┴ ┴
     - [Configure database settings:](#configure-database-settings)
     - [Run app](#run-app)
 - [Links](#links)
+- [Contribs](#contribs)
 <!--toc:end-->
 
 ## Get started:
